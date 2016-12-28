@@ -1,0 +1,22 @@
+# 8hstw
+Welcome to TrainABA's 8 Hour Supervisor Training Workshop online code repository. 
+
+This is a public resource for professional behavior analysts trying to meet ABA credentialing board requirements for providing supervision.
+
+The materials in this repo **supplement** but DO NOT CONSTITUTE satisfaction of credentialing board supervision requirements.
+
+If you need to complete this requirement credentialing AND would like to receive 9.5 Type-II CEUs in supervision, please sign up for a paid workshop.
+
+All materials for TrainABA's 8 Hour Supervisor Training Workshop are available online to anyone, freely available to the general public. Anyone on Earth is welcome to interact with our materials for educational purposes. If we provide a certificate for you, that is a separate service which requires TrainABA to do a number of things related to keeping records on you and for you, which we report to the credentialing boards on your behalf to help you obtain proper credit for completing the course. We charge for that service because of the resonsibility and time it requires from TrainABA as an organization. If you have already met your 8 Hour Supervisor Training Requirement for ABA credentialing and would like to take it from TrainABA to earn additional CEUs, you are welcome to do so. The way we do it is undoubtedly different (not necessarily better or worse) than the way another provider did it. It is also different from how we used to deliver the workshop, in format and content. We have learned over the years and would like to think we are improving. 
+
+If you have read this so far and have no idea what the heck this "repository" is, that's okay. 
+
+This is a work in progress and we will add to the repo with time.
+
+All technical content is covered by the GPL v3 license, which makes it free (as in freedom, unrestricted) to use as you wish, reproduce, modify, and distribute modifications so long as you provide the same freedoms to others.
+All content representing a person's own professional thoughts, experience, anecdotes, and opinions is covered by the Creative Commons -- No Derivatives license, which means the author must be credited and can only be distributed in its entirety without modification. The purpose is to avoid taking a subject matter expert's words out of context or attributed to someone else for a purpose not intended by the content creator.
+The relevant license is indicated where applicable. 
+
+Thank you for your participation. May the contingencies be with you. 
+
+Please be a good neighbor to those around you.
