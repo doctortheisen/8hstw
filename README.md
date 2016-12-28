@@ -13,10 +13,10 @@ If you have read this so far and have no idea what the heck this "repository" is
 
 This is a work in progress and we will add to the repo with time.
 
-All technical content is covered by the GPL v3 license, which makes it free (as in freedom, unrestricted) to use as you wish, reproduce, modify, and distribute modifications so long as you provide the same freedoms to others.
-All content representing a person's own professional thoughts, experience, anecdotes, and opinions is covered by the Creative Commons -- No Derivatives license, which means the author must be credited and can only be distributed in its entirety without modification. The purpose is to avoid taking a subject matter expert's words out of context or attributed to someone else for a purpose not intended by the content creator.
-The relevant license is indicated where applicable. 
+All technical content in this repository is covered by the GPL v3 license, which makes it free (as in freedom, unrestricted) to use as you wish, reproduce, modify, and distribute modifications so long as you provide the same freedoms to others.
 
-Thank you for your participation. May the contingencies be with you. 
+We use a different license for creative content and serve the creative material from other computers, thus you will not interact with it by using this repository. 
 
-Please be a good neighbor to those around you.
+Thank you for your participation.
+
+Please be a good neighbor to those around you. Represent applied behavior analysis well.
